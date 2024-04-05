@@ -5,7 +5,7 @@ from flask import Markup
 import replicate
 import os
 
-os.environ["REPLICATE_API_TOKEN"] = "r8_TMMN9ByW9T9JBaGyYbXXfyIRW1zc8kE0LA8Q4"
+os.environ["REPLICATE_API_TOKEN"] = "r8_Aqy3jdcIZ6ijswdpoXq8ca6DpR3H7TJ3fCfDw"
 
 app = Flask(__name__)
 
